@@ -4,9 +4,20 @@
 </div>
 <br />
 
+<!-- 자기소개 상자 -->
+<div align="center">
+  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; max-width: 800px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <p style="font-size: 1.2rem; color: #333333; line-height: 1.6; margin: 0;">
+      안녕하세요, 다양한 환경과 변화에 빠르게 적응하며 프로젝트에 실질적인 가치를 더하는 
+      <strong style="color: #FF6347;">프론트엔드 개발자 정성혜</strong>입니다.
+    </p>
+  </div>
+</div>
+<br />
+
 <!-- GitHub Stats와 Top Langs 가로 정렬 -->
 <div align="center">
-  <h3 style="color: #ff6347;">📊 GitHub Stats & Top Languages 📊</h3> <!-- 텍스트 색상 변경 -->
+  <h3 style="color: #ff6347;">📊 GitHub Stats & Top Languages 📊</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=eqypo9&show_icons=true&theme=graywhite" alt="eqypo9's GitHub stats" height="100px" />
