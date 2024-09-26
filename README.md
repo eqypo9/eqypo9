@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <img src="https://github.com/eqypo9/eqypo9/blob/main/github%20banner.gif?raw=truef" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/eqypo9/eqypo9/blob/main/github%20banner2.gif?raw=truef" alt="GitHub Banner" width="100%" />
 </div>
 <br />
 
