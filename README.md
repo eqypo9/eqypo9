@@ -22,7 +22,7 @@
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=eqypo9&show_icons=true&theme=graywhite" alt="eqypo9's GitHub stats" height="100px" />
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eqypo9&layout=compact&theme=graywhite" alt="Top Langs" height="100px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eqypo9&layout=compact&theme=graywhite&v=2" alt="Top Langs" height="100px" />
   </div>
 </div>
 <br />
